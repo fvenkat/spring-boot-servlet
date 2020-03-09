@@ -12,7 +12,7 @@ How to Run Sample Servlet
 
 2. Run the Maven Goal.
 
-  mvn clean build spring-boot:run
+  mvn clean spring-boot:run
 
 3. Application URL :- http://localhost:8085/myServlet?name=Spring-boot-demo
 
