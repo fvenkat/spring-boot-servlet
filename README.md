@@ -7,13 +7,15 @@ Make POM.xml file as per your server Need , I attached pom.xml file for all 3 se
 
 How to Run Sample Servlet
 
-1. Install Maven Package in linux server using yum.
+
+1. Replace localhost with your IP Address in /src/main/resources/application.properties file.
+
+2. Install Maven Package in linux server using yum.
 
   yum install -y maven
 
-2. Run the Maven Goal.
+3. Run the Maven Goal.
 
   mvn clean spring-boot:run
 
 3. Application URL :- http://localhost:8085/myServlet?name=Spring-boot-demo
-
