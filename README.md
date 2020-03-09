@@ -1,6 +1,7 @@
 # spring-boot-servlet
 
-Spring Boot has Embedded Tomcat , Undertow , Jetty servers configured as Application Dependency.
+Spring Boot has Embedded Application server i.e. Tomcat , Undertow , Jetty servers
+No Need to setup external tomcat setup , add tomcat as JAR file.
 
 Make POM.xml file as per your server Need , I attached pom.xml file for all 3 server jetty , tomcat , undertow.
 
