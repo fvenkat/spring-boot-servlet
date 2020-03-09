@@ -1,7 +1,12 @@
 # spring-boot-servlet
 spring-boot-servlet
 
-Clone this repository
+
+Sample Spring Boot Servlet Application.
+
+Spring Boot has Embedded Tomcat , Undertow , Jetty servers configured as Application Dependency.
+
+Make POM.xml file as per your server Need.
 
 Execute Maven Build
 
