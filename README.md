@@ -1,8 +1,4 @@
 # spring-boot-servlet
-spring-boot-servlet
-
-
-Sample Spring Boot Servlet Application.
 
 Spring Boot has Embedded Tomcat , Undertow , Jetty servers configured as Application Dependency.
 
