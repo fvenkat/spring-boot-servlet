@@ -6,7 +6,7 @@
   <artifactId>spring-boot-servlet-filter-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Spring Boot - Servlet, Filter and  Listener example</name>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <properties>
     <java.version>1.8</java.version>
   </properties>
